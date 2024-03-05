@@ -1,2 +1,2 @@
 "# governorProgram" 
-This repository contains governor programs's material
+This repository contains governor program's material
