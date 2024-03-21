@@ -1,0 +1,14 @@
+var favPlaces = ["Makkah", "Madina", "Helsinki", "Stockholm", "Paris"];
+console.log(favPlaces);
+console.log("\nsorted: ".concat(favPlaces.slice().sort()));
+console.log("\n orignal order:".concat(favPlaces));
+console.log("\nreversed order: ".concat(favPlaces.slice().reverse()));
+console.log("\n orignal order:".concat(favPlaces));
+console.log("\nreversed order: ".concat(favPlaces.reverse()));
+console.log("\n orignal order: ".concat(favPlaces));
+console.log("\nreversed order: ".concat(favPlaces.reverse()));
+console.log("\n orignal order:".concat(favPlaces));
+console.log("\nsorted: ".concat(favPlaces.sort()));
+console.log("\n orignal order:".concat(favPlaces));
+console.log("\nsorted: ".concat(favPlaces.reverse()));
+console.log("\n orignal order:".concat(favPlaces));

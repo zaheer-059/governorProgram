@@ -1,0 +1,4 @@
+npm init
+tsc --init
+npm i inquirer // this will install install inquirer which will be used for taking user input (prompt)
+npm i --save-dev @types/inquirer 
